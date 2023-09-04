@@ -1,0 +1,46 @@
+p {
+font-family: "Link Sans", "Arial Black", Arial, sans-serif;
+}
+
+.thistle-div {
+background-color: rgb(240, 199, 240);
+height: 700px;
+margin-top: 0;
+}
+
+.thistle-para {
+margin: 0;
+color: indigo;
+font-size: 53.125px;
+font-weight: 700px;
+}
+
+.thistle-para2 {
+color: indigo;
+font-size: 15px;
+font-weight: 400;
+}
+
+.thistle-button {
+background-color: indigo;
+width: 218px;
+height: 62px;
+border: none;
+font: bold 17px sans-serif;
+border-radius: 30px;
+cursor: pointer;
+color: white;
+margin-top: 37px;
+}
+
+.thistle-button:hover{
+opacity: 0.89;
+}
+
+.thistle-container {
+width: 708px;
+height: 430px;
+position: absolute;
+right: 8px;
+bottom: -610px;
+}

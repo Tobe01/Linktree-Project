@@ -1,0 +1,81 @@
+p {
+font-family: "Link Sans", "Arial Black", Arial, sans-serif;
+}
+
+.green-container {
+background-color: rgb(1, 78, 1);
+height: 500px;
+padding-top: 180px;
+margin-bottom: -16px;
+}
+
+.paragraph1-div{
+height: 320px;
+margin: 0 0 0 50px;
+width: 700px;
+display: flex;
+flex: 1;
+flex-direction: column;
+}
+
+.yellow-green1 {
+margin: 0;
+color: rgb(210, 232, 35);
+font-size: 53.125px;
+font-weight: 700;
+}
+
+.yellow-green2 {
+color: rgb(210, 232, 35);
+}
+
+.search-box {
+height: 62px;
+width: 170px;
+margin: 0 10px 0 0;
+border: none;
+border-bottom-left-radius: 0;
+border-bottom-right-radius: 10px;
+border-top-left-radius: 0;
+border-top-right-radius: 10px;
+}
+
+.search-box::placeholder {
+font: 20px grey;
+}
+
+.linktree-button {
+background-color: white;
+height: 62px;
+width: 80px;
+margin: 0;
+border: none;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+margin-right: 0;
+font-size: 17px;
+font-weight: bold;
+color: grey;
+padding: 0 0 0 5px;
+}
+
+.button1 {
+background-color: rgb(240, 199, 240);
+width: 218px;
+height: 62px;
+border: none;
+font: bold 17px sans-serif;
+border-radius: 30px;
+cursor: pointer;
+}
+
+.button1:hover{
+background-color: rgb(228, 193, 228);
+}
+
+.button-div {
+margin-top: 25px;
+display: flex;
+flex: 1;
+}
+    

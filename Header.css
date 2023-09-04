@@ -1,0 +1,99 @@
+p {
+font-family: "Link Sans", "Arial Black", Arial, sans-serif;
+}
+
+.main-div {
+background-color: white;
+display: flex;
+justify-content: space-between;
+height: 85px;
+width: 1281px;
+margin-left: 27px;
+border-radius: 45px;
+position: fixed;
+top: 60px;
+bottom: 0;
+left: 0;
+right: 0;
+z-index: 100;
+}
+
+.left-side {
+display: flex;
+flex: 1;
+align-items: center;
+max-width: 510px;
+padding-left: 40px;
+flex-shrink: 0;
+}
+
+.imgg {
+width: 30px;
+margin-left: -9px;
+cursor: pointer;
+}
+
+.right-side {
+display: flex;
+flex: 1;
+width: 290px;
+max-width: 290px;
+flex-shrink: 0;
+justify-content: space-between;
+align-items: center;
+padding: 0 0 0 5px;
+margin-left: 20px;
+border-radius: 45px;
+}
+
+.temp {
+color: rgb(99, 99, 99);
+background-color: white;
+border: none;
+font-weight: bold;
+font-size: 16px;
+height: 40px;
+padding: 12px 17px 17px 17px;
+border-radius: 8px;
+margin: 0;
+cursor: pointer;
+}
+
+.temp:hover{
+background-color: rgb(240, 240, 240);
+}
+
+.ad {
+font-size: 17px;
+color:rgb(73, 73, 73);
+font-weight: bold;
+border: none;
+height: 65px;
+padding: 0 26px 0 26px;
+border-radius: 8px;
+cursor: pointer;
+margin-left: 12px;
+white-space: nowrap;
+}
+
+.ad:hover{
+background-color: rgb(231, 231, 231);
+} 
+
+.ad2 {
+height: 65px;
+padding: 0 28px 0 28px;
+border: none;
+background-color: rgb(1, 1, 51);
+color: white;
+border-radius: 34px;
+font-size: 17px;
+font-weight: bold;
+margin-right: 13px;
+cursor: pointer;
+white-space: nowrap;
+}
+
+.ad2:hover{
+opacity: 0.9;
+}

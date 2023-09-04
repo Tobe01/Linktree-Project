@@ -1,0 +1,64 @@
+
+p {
+font-family: "Link Sans", "Arial Black", Arial, sans-serif;
+}
+
+.white-div {
+padding-top: 170px;
+background-color: rgb(243, 241, 241);
+height: 3000px;
+}
+
+.white-container {
+width: 608px;
+height: 450px;
+margin-right: 40px;
+position: absolute;
+right: 0;
+}
+
+.white-para {
+margin: 0;
+font-size: 50px;
+font-weight: 700px;
+}
+
+.white-para2 {
+font-size: 15px;
+}
+
+.white-button {
+background-color: rgb(240, 192, 240);
+width: 218px;
+height: 62px;
+border: none;
+font: bold 17px sans-serif;
+border-radius: 30px;
+cursor: pointer;
+color: rgb(73, 73, 73);
+margin-top: 34px;
+}
+
+.white-button:hover {
+background-color: rgb(240, 183, 240);
+}
+
+.big-para {
+font-size: 49px;
+margin-top: 0;
+}
+
+.mid-div2 {
+width: 970px;
+padding: 0 0 0 15px;
+margin: 0 0 0 170px;
+}
+
+.mid-div1 {
+display: flex;
+flex: 1;
+margin-top: 570px;
+}
+
+
+

@@ -1,0 +1,44 @@
+p {
+font-family: "Link Sans", "Arial Black", Arial, sans-serif;
+}
+
+.oxblood-div {
+padding-top: 170px;
+background-color: rgb(116, 14, 14);
+height: 667px;
+}
+
+.oxblood-para {
+margin: 0;
+color: rgb(240, 199, 240);
+font-size: 53.125px;
+}
+
+.oxblood-para2 {
+color: rgb(240, 199, 240);
+font-size: 15px;
+font-weight: 400;
+}
+
+.oxblood-button {
+background-color: rgb(240, 199, 240);
+width: 218px;
+height: 62px;
+border: none;
+font: bold 17px sans-serif;
+border-radius: 30px;
+cursor: pointer;
+color: rgb(73, 73, 73);
+margin-top: 34px;
+}
+
+.oxblood-button:hover{
+opacity: 0.89;
+}
+
+.oxblood-container {
+width: 690px;
+height: 500px;
+margin-left: 40px;
+}
+    
